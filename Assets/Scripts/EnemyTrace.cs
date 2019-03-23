@@ -5,7 +5,7 @@ public class EnemyTrace : MonoBehaviour
 {
 
 
-    [SerializeField]
+   
     public GameObject target;
     [SerializeField]
     private float minDist = 2.2f;
